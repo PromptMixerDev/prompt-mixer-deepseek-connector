@@ -1,0 +1,9 @@
+{
+  "id": "prompt-mixer-deepseek-connector",
+  "name": "DeepSeek Connector",
+  "version": "1.0.0",
+  "description": "DeepSeek Connector for Prompt Mixer",
+  "author": "Prompt Mixer",
+  "main": "build/main.js",
+  "license": "ISC"
+}

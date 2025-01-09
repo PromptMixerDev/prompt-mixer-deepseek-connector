@@ -1,0 +1,15 @@
+# npm
+node_modules/
+package-lock.json
+
+# build
+*.js
+!esbuild.config.mjs
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db

@@ -5,6 +5,7 @@ build/
 # build
 *.js
 !esbuild.config.mjs
+!config.js
 
 # IDE
 .idea

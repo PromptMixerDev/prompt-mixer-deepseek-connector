@@ -1,7 +1,7 @@
 {
   "id": "prompt-mixer-deepseek-connector",
   "name": "DeepSeek Connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DeepSeek Connector for Prompt Mixer",
   "author": "Prompt Mixer",
   "main": "build/main.js",

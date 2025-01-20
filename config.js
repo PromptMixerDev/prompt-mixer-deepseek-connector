@@ -1,8 +1,9 @@
 export const config = {
   connectorName: 'DeepSeek',
-  connectorVersion: '1.0.0',
+  connectorVersion: '1.0.1',
   models: [
     'deepseek-chat',
+    'deepseek-reasoner'
   ],
   description:
     'DeepSeek Connector for Prompt Mixer',

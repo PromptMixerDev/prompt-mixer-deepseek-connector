@@ -20,7 +20,7 @@
     "axios": "^1.8.2",
     "builtin-modules": "^4.0.0",
     "esbuild": "^0.25.0",
-    "openai": "^4.86.2"
+    "openai": "^4.87.3"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.24.1",
